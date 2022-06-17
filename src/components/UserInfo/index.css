@@ -1,0 +1,18 @@
+.User_Information {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 250px;
+}
+.profile_information {
+  height: 150px;
+}
+.Info_heading {
+  font-size: 20px;
+}
+.info_paragragh {
+  font-size: 20px;
+  color: #9aa5b1;
+}
